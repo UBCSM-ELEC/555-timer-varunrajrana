@@ -1,0 +1,11 @@
+Bill of Material for 
+On 9/22/2018 at 10:32:09 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+                     RAD-0.3          1    C2                           Capacitor            
+ Cap                 RAD-0.3          1    C1                           Capacitor            
+ LED0                LED-0            1    D1                           Typical INFRARED GaAs LED 
+ NE555 TIMER                          1    NE555P TIMER                                      
+ R3                  AXIAL-0.3        1    R3                           Resistor             
+ Res1                AXIAL-0.3        2    R1, R2                       Resistor             
